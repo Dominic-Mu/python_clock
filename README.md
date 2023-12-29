@@ -24,7 +24,7 @@ To run the clock app:
 3. Run the following command:
 
     ```bash
-    python clock_app.py
+    python clock.py
     ```
 The app window will open, displaying the current time that updates every second.
 
